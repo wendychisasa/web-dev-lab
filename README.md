@@ -1,4 +1,4 @@
-group names:
+Group Members:
 Wendy Chisasa....2021506151
 Abby Bwalya....2020214638
 Installed VS Code, Git, and Node.js.
